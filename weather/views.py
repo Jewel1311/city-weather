@@ -1,4 +1,3 @@
-import imp
 from django.shortcuts import render
 import json
 import requests
